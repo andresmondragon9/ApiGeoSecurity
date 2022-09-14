@@ -3,10 +3,10 @@ package co.mil.ejercito.apigeoseguridad;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class ApigeoseguridadApplicationTests {
 
-	@Test
+	//@Test
 	void contextLoads() {
 	}
 
